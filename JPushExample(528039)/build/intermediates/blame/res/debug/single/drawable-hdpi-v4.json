@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\GitHub\\JpushTest\\JPushExample(528039)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\corners_bg.xml",
+        "source": "E:\\GitHub\\JpushTest\\JPushExample(528039)\\res\\drawable-hdpi\\corners_bg.xml"
+    },
+    {
+        "merged": "E:\\GitHub\\JpushTest\\JPushExample(528039)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiledstripes.xml",
+        "source": "E:\\GitHub\\JpushTest\\JPushExample(528039)\\res\\drawable-hdpi\\tiledstripes.xml"
+    },
+    {
+        "merged": "E:\\GitHub\\JpushTest\\JPushExample(528039)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_progressbar.xml",
+        "source": "E:\\GitHub\\JpushTest\\JPushExample(528039)\\res\\drawable-hdpi\\richpush_progressbar.xml"
+    },
+    {
+        "merged": "E:\\GitHub\\JpushTest\\JPushExample(528039)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "E:\\GitHub\\JpushTest\\JPushExample(528039)\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    }
+]
