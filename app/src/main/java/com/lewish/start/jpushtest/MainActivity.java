@@ -3,9 +3,10 @@ package com.lewish.start.jpushtest;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import cn.jpush.android.api.JPushInterface;
-
-
+/**
+ * author: sundong
+ * created at 2017/7/27 9:43
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -16,13 +17,13 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onResume() {
-        JPushInterface.onResume(this);
+        PushManager.getInstance().onResume(this);
         super.onResume();
     }
 
     @Override
     protected void onPause() {
-        JPushInterface.onPause(this);
+        PushManager.getInstance().onPause(this);
         super.onPause();
     }
 }
